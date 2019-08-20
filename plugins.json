@@ -1,7 +1,7 @@
 [
     {
         "description": "A Cloudify Plugin that provisions resources in OpenStack using the OpenStack SDK. Note, this plugin is not compatible with the OpenStack plugin.", 
-        "icon": "https://cloudify.co/wp-content/uploads/2019/08/oslogo.png",
+        "icon": "https://cloudify.co/wp-content/uploads/2019/08/oslogo.png", 
         "link": "http://www.getcloudify.org/spec/openstack-plugin/3.2.2/plugin.yaml", 
         "name": "cloudify-openstack-plugin", 
         "releases": "https://github.com/cloudify-cosmo/cloudify-openstack-plugin/releases", 
@@ -316,27 +316,6 @@
                 "md5url": "http://repository.cloudifysource.org/cloudify/wagons/cloudify-ansible-plugin/2.4.0/cloudify_ansible_plugin-2.4.0-py27-none-linux_x86_64-redhat-Maipo.wgn.md5", 
                 "name": "Redhat Maipo", 
                 "url": "http://repository.cloudifysource.org/cloudify/wagons/cloudify-ansible-plugin/2.4.0/cloudify_ansible_plugin-2.4.0-py27-none-linux_x86_64-redhat-Maipo.wgn"
-            }
-        ]
-    }, 
-    {
-        "description": "This plugin allows running SSH commands and Fabric Tasks remotely", 
-        "icon": "https://cloudify.co/wp-content/uploads/2019/08/fabriclogo-150x117.png", 
-        "link": "http://www.getcloudify.org/spec/fabric-plugin/1.5.1/plugin.yaml", 
-        "name": "cloudify-fabric-plugin", 
-        "releases": "https://github.com/cloudify-cosmo/cloudify-fabric-plugin/releases", 
-        "title": "Fabric", 
-        "version": "1.5.1", 
-        "wagons": [
-            {
-                "md5url": "http://repository.cloudifysource.org/cloudify/wagons/cloudify-fabric-plugin/1.5.1/cloudify_fabric_plugin-1.5.1-py27-none-linux_x86_64-centos-Core.wgn.md5", 
-                "name": "Centos Core", 
-                "url": "http://repository.cloudifysource.org/cloudify/wagons/cloudify-fabric-plugin/1.5.1/cloudify_fabric_plugin-1.5.1-py27-none-linux_x86_64-centos-Core.wgn"
-            }, 
-            {
-                "md5url": "http://repository.cloudifysource.org/cloudify/wagons/cloudify-fabric-plugin/1.5.1/cloudify_fabric_plugin-1.5.1-py27-none-linux_x86_64-redhat-Maipo.wgn.md5", 
-                "name": "Redhat Maipo", 
-                "url": "http://repository.cloudifysource.org/cloudify/wagons/cloudify-fabric-plugin/1.5.1/cloudify_fabric_plugin-1.5.1-py27-none-linux_x86_64-redhat-Maipo.wgn"
             }
         ]
     }, 

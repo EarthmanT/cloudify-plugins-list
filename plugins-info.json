@@ -4,7 +4,7 @@
       "title":"OpenStack v3",
       "description":"A Cloudify Plugin that provisions resources in OpenStack using the OpenStack SDK. Note, this plugin is not compatible with the OpenStack plugin.",
       "repo":"cloudify-cosmo/cloudify-openstack-plugin",
-      "icon":"https://cloudify.co/img/oslogo.png"
+      "icon":"https://cloudify.co/wp-content/uploads/2019/08/oslogo.png"
    },
    { 
       "name":"cloudify-openstack-plugin", 
@@ -12,21 +12,21 @@
       "description":"A Cloudify Plugin that provisions resources in OpenStack using the OpenStack APIs.",
       "repo":"cloudify-cosmo/cloudify-openstack-plugin",
       "tag":"2.14.7",
-      "icon":"https://cloudify.co/img/oslogo.png"
+      "icon":"https://cloudify.co/wp-content/uploads/2019/08/oslogo.png"
    },
    {
       "name":"cloudify-vsphere-plugin",  
       "title":"vSphere",
       "description":"A Cloudify Plugin that provisions resources in VMware vSphere",
       "repo":"cloudify-cosmo/cloudify-vsphere-plugin",
-      "icon":"https://cloudify.co/img/vsphere.png"
+      "icon":"https://cloudify.co/wp-content/uploads/2019/08/vsphere.png"
    },
    {
       "name":"cloudify-vcloud-plugin",  
       "title":"vCloud",
       "description":"A Cloudify Plugin that provisions resources in VMware vCloud",
       "repo":"cloudify-cosmo/tosca-vcloud-plugin",
-      "icon":"https://cloudify.co/img/vsphere.png"
+      "icon":"https://cloudify.co/wp-content/uploads/2019/08/vsphere.png"
    },
    {  
       "name":"cloudify-aws-plugin",
@@ -34,21 +34,21 @@
       "description":"A Cloudify Plugin that provisions resources in AWS",
       "repo":"cloudify-cosmo/cloudify-aws-plugin",
       "content":"A Cloudify Plugin that provisions resources in AWS",
-      "icon":"https://cloudify.co/img/aws.png"
+      "icon":"https://cloudify.co/wp-content/uploads/2019/08/aws-1.png"
    },
    { 
       "name":"cloudify-gcp-plugin", 
       "title":"GCP",
       "description":"A Cloudify Plugin that provisions resources in Google Cloud Platform",
       "repo":"cloudify-cosmo/cloudify-gcp-plugin",
-      "icon":"https://cloudify.co/img/gcplogo.png"
+      "icon":"https://cloudify.co/wp-content/uploads/2019/08/gcplogo.png"
    },
    {  
       "name":"cloudify-azure-plugin",
       "title":"Azure",
       "description":"A Cloudify Plugin that provisions resources in Microsoft Azure",
       "repo":"cloudify-cosmo/cloudify-azure-plugin",
-      "icon":"https://cloudify.co/img/azurelogo.png"
+      "icon":"https://cloudify.co/wp-content/uploads/2019/08/azurelogo.png"
    },
    { 
       "name":"cloudify-kubernetes-plugin", 
@@ -62,42 +62,42 @@
       "title":"Netconf",
       "description":"Cloudify plugin for serializing TOSCA node templates to netconf configuration",
       "repo":"cloudify-cosmo/cloudify-netconf-plugin",
-      "icon":"https://cloudify.co/img/netconf.png"
+      "icon":"https://cloudify.co/wp-content/uploads/2019/08/netconf-150x150.png"
    },
    {  
       "name":"cloudify-utilities-plugin",
       "title":"Utilities",
       "description":"Utilities for extending Cloudify features",
       "repo":"cloudify-incubator/cloudify-utilities-plugin",
-      "icon":"https://cloudify.co/img/pluginlogo.png"
+      "icon":"https://cloudify.co/wp-content/uploads/2019/08/pluginlogo.png"
    },
    { 
       "name":"cloudify-fabric-plugin", 
       "title":"Fabric",
       "description":"For running fabric tasks or commands from the manager",
       "repo":"cloudify-cosmo/cloudify-fabric-plugin",
-      "icon":"https://cloudify.co/img/fabriclogo.png"
+      "icon":"https://cloudify.co/wp-content/uploads/2019/08/fabriclogo-150x117.png"
    },
    { 
       "name":"cloudify-diamond-plugin", 
       "title":"Diamond",
       "description":"Cloudify diamond monitoring plugin",
       "repo":"cloudify-cosmo/cloudify-diamond-plugin",
-      "icon":"https://cloudify.co/img/diamondlogo.png"
+      "icon":"https://cloudify.co/wp-content/uploads/2019/08/diamondlogo-150x150.png"
    },
    {  
       "name":"cloudify-psutil-plugin",
       "title":"PSUTIL",
       "description":"A plugin for sending operating system metrics to Cloudify",
       "repo":"cloudify-cosmo/cloudify-psutil-plugin",
-      "icon":"https://cloudify.co/img/pluginlogo.png"
+      "icon":"https://cloudify.co/wp-content/uploads/2019/08/pluginlogo.png"
    },
    {
       "name":"cloudify-host-pool-plugin",  
       "title":"HOST-POOL",
       "description":"The Host Pool Service is a Python 2 RESTful web service built on flask-restful",
       "repo":"cloudify-cosmo/cloudify-host-pool-plugin",
-      "icon":"https://cloudify.co/img/pluginlogo.png"
+      "icon":"https://cloudify.co/wp-content/uploads/2019/08/pluginlogo.png"
    },
    {  
       "name":"cloudify-ansible-plugin",
@@ -112,13 +112,6 @@
       "description":"Cloudify Network Virtualization with VMware (NSX) plugin",
       "repo":"cloudify-cosmo/cloudify-nsx-plugin",
       "icon":"https://wp.cloudify.co/wp-content/uploads/2017/12/nsx-logo.png"
-   },
-   {
-      "name":"cloudify-fabric-plugin",
-      "title":"Fabric",
-      "description":"This plugin allows running SSH commands and Fabric Tasks remotely",
-      "repo":"cloudify-cosmo/cloudify-fabric-plugin",
-      "icon":"https://cloudify.co/img/fabriclogo.png"
    },
    {
       "name":"cloudify-libvirt-plugin",
