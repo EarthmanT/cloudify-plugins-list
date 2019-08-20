@@ -1,7 +1,7 @@
 [
     {
         "description": "A Cloudify Plugin that provisions resources in OpenStack using the OpenStack SDK. Note, this plugin is not compatible with the OpenStack plugin.", 
-        "icon": "https://cloudify.co/wp-content/uploads/2019/08/oslogo.png", 
+        "icon": "https://cloudify.co/wp-content/uploads/2019/08/oslogo.png",
         "link": "http://www.getcloudify.org/spec/openstack-plugin/3.2.2/plugin.yaml", 
         "name": "cloudify-openstack-plugin", 
         "releases": "https://github.com/cloudify-cosmo/cloudify-openstack-plugin/releases", 
