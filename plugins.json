@@ -107,21 +107,21 @@
     {
         "description": "A Cloudify Plugin that provisions resources in Google Cloud Platform",
         "icon": "https://cloudify.co/wp-content/uploads/2019/08/gcplogo.png",
-        "link": "http://www.getcloudify.org/spec/gcp-plugin/1.6.0/plugin.yaml",
+        "link": "http://www.getcloudify.org/spec/gcp-plugin/1.6.2/plugin.yaml",
         "name": "cloudify-gcp-plugin",
         "releases": "https://github.com/cloudify-cosmo/cloudify-gcp-plugin/releases",
         "title": "GCP",
-        "version": "1.6.0",
+        "version": "1.6.2",
         "wagons": [
             {
-                "md5url": "http://repository.cloudifysource.org/cloudify/wagons/cloudify-gcp-plugin/1.6.0/cloudify_gcp_plugin-1.6.0-py27-none-linux_x86_64-centos-Core.wgn.md5",
+                "md5url": "http://repository.cloudifysource.org/cloudify/wagons/cloudify-gcp-plugin/1.6.2/cloudify_gcp_plugin-1.6.2-py27-none-linux_x86_64-centos-Core.wgn.md5",
                 "name": "Centos Core",
-                "url": "http://repository.cloudifysource.org/cloudify/wagons/cloudify-gcp-plugin/1.6.0/cloudify_gcp_plugin-1.6.0-py27-none-linux_x86_64-centos-Core.wgn"
+                "url": "http://repository.cloudifysource.org/cloudify/wagons/cloudify-gcp-plugin/1.6.2/cloudify_gcp_plugin-1.6.2-py27-none-linux_x86_64-centos-Core.wgn"
             },
             {
-                "md5url": "http://repository.cloudifysource.org/cloudify/wagons/cloudify-gcp-plugin/1.6.0/cloudify_gcp_plugin-1.6.0-py27-none-linux_x86_64-redhat-Maipo.wgn.md5",
+                "md5url": "http://repository.cloudifysource.org/cloudify/wagons/cloudify-gcp-plugin/1.6.2/cloudify_gcp_plugin-1.6.2-py27-none-linux_x86_64-redhat-Maipo.wgn.md5",
                 "name": "Redhat Maipo",
-                "url": "http://repository.cloudifysource.org/cloudify/wagons/cloudify-gcp-plugin/1.6.0/cloudify_gcp_plugin-1.6.0-py27-none-linux_x86_64-redhat-Maipo.wgn"
+                "url": "http://repository.cloudifysource.org/cloudify/wagons/cloudify-gcp-plugin/1.6.2/cloudify_gcp_plugin-1.6.2-py27-none-linux_x86_64-redhat-Maipo.wgn"
             }
         ]
     },
